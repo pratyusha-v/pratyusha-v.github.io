@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Laila:wght@600&display=swap');
+
+.navbar-brand{
+    font-family: 'Laila', serif;
+    font-size: 1.5rem;
+}
+
+.navbar{
+    opacity: 0.9;
+}
+
+h1 {
+    font-family: 'Laila', serif;
+    font-size: 2rem;
+}
+
+#search {
+    background-color: teal;
+    border-color: white;
+    color: white;
+    
+}
